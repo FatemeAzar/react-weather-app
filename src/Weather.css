@@ -46,3 +46,7 @@
   position: relative;
   top: -25px;
 }
+
+.float-left {
+  float: left;
+}
