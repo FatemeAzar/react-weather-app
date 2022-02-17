@@ -10,7 +10,7 @@
   font-size: 24px;
   font-weight: 100;
   line-height: 29px;
-  margin: 0;
+  margin: 20px 0 0 0;
 }
 
 .Weather li {
@@ -23,10 +23,6 @@
 .Weather ul {
   margin: 0;
   padding: 0;
-}
-
-.Weather form {
-  margin-bottom: 20px;
 }
 
 .Weather .temp {
@@ -49,5 +45,4 @@
   font-weight: 400;
   position: relative;
   top: -25px;
-  margin-left: 5px;
 }
