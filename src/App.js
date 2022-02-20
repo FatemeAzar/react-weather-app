@@ -8,10 +8,7 @@ function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>
-          <a
-            href="https://github.com/FatemeAzar/react-weather-app"
-            target="_blank"
-          >
+          <a href="https://github.com/FatemeAzar/react-weather-app">
             open-source{" "}
           </a>
           code by Fateme Azar
